@@ -1,0 +1,15 @@
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\bin\Release\net6.0\BlueBird.Reponsitory.deps.json
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\bin\Release\net6.0\BlueBird.Reponsitory.dll
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\bin\Release\net6.0\BlueBird.Reponsitory.pdb
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\bin\Release\net6.0\BlueBird.DataContext.dll
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\bin\Release\net6.0\BlueBird.DataContext.pdb
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.csproj.AssemblyReference.cache
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.AssemblyInfoInputs.cache
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.AssemblyInfo.cs
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.754DF0CF.Up2Date
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.dll
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\refint\BlueBird.Reponsitory.dll
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\BlueBird.Reponsitory.pdb
+E:\Đồ án 1\BlueBird.API\BlueBird.Reponsitory\obj\Release\net6.0\ref\BlueBird.Reponsitory.dll
